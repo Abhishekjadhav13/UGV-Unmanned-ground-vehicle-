@@ -1,6 +1,13 @@
 # UGV - Unmanned Ground Vehicle
 
 A 4-Wheel Unmanned Ground Vehicle designed for remote monitoring, surveillance, obstacle detection, and environmental sensing.
+## Project Preview
+
+### CLAIRVOYANCE UGV
+
+![Rover Front](images/rover-front.jpg)
+
+![Rover Side](images/rover-side.jpg)
 
 ## Overview
 
