@@ -5,7 +5,7 @@ A 4-Wheel Unmanned Ground Vehicle designed for remote monitoring, surveillance, 
 
 ### CLAIRVOYANCE UGV
 
-![Rover Front](images/rover-front.jpg)
+![Rover Front](images/IMG_20260912_160250_924.jpg)
 
 ![Rover Side](images/rover-side.jpg)
 
