@@ -7,7 +7,7 @@ A 4-Wheel Unmanned Ground Vehicle designed for remote monitoring, surveillance, 
 
 ![Rover Front](images/IMG_20260912_160250_924.jpg)
 
-![Rover Side](images/rover-side.jpg)
+![Rover Side](images/IMG_20260912_165547_219.jpg)
 
 ## Overview
 
