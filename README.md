@@ -136,8 +136,10 @@ Environmental sensing
 Search and inspection applications
 Educational robotics
 Research and development
-Project Status
-Working Prototype
+Project Status 
+```
+## Working Prototype
+
 The current version demonstrates remote movement, live video streaming, environmental sensing, obstacle detection, and local alert functionality.
 This project is currently intended for educational, experimental, and research purposes and is not certified for operation in hazardous or explosive environments.
 Development
