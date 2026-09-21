@@ -9,6 +9,19 @@ A 4-Wheel Unmanned Ground Vehicle designed for remote monitoring, surveillance, 
 
 ![Rover Side](images/IMG_20260912_165547_219.jpg)
 
+## Working Demo
+
+🎥 **YouTube Demo:**  
+[Watch CLAIRVOYANCE UGV in Action](https://youtu.be/wpnDdgBRV2g?si=BrVI4zUMqtKKgNxh)
+
+The video demonstrates:
+- 6-direction joystick control
+- Live video surveillance
+- Obstacle detection
+- Gas monitoring
+- Temperature & humidity monitoring
+- Camera pan & tilt
+  
 ## Overview
 
 This project is a working prototype of a 4-wheel Unmanned Ground Vehicle (UGV) built using ESP8266 NodeMCU and ESP32-CAM.
